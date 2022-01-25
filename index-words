@@ -1,0 +1,365 @@
+%{json}
+--alt-svc
+--anyauth
+--basic
+--compressed
+--connect-timeout
+--connect-to
+--data
+--data-binary
+--data-urlencode
+--etag-compare
+--etag-save
+--fail
+--fail-with-body
+--ftp-method
+--ftp-pasv
+--ftp-port
+--ftp-skip-pasv-ip
+--get
+--header
+--hsts
+--http0.9
+--http1.1
+--http2
+--http2-prior-knowledge
+--http3
+--keepalive-time
+--libcurl
+--limit-rate
+--location
+--location
+--max-filesize
+--max-time
+--metalink
+--negotiate
+--netrc-file
+--netrc-optional
+--no-eprt
+--no-epsv
+--ntlm
+--parallel
+--parallel-max
+--path-as-is
+--post301
+--post302
+--post303
+--proxy
+--proxy-user
+--proxy1.0
+--proxytunnel
+--quote
+--remote-name-all
+--resolve
+--retry
+--retry-all-errors
+--retry-connrefused
+--retry-delay
+--retry-max-time
+--show-error
+--silent
+--socks4
+--socks4a
+--socks5
+--socks5-hostname
+--speed-limit
+--speed-time
+--tftp-blksize
+--tftp-no-options
+--time-cond
+--tr-encoding
+--trace
+--trace-ascii
+--trace-time
+--verbose
+--version
+--write-out
+-b
+-c
+-d
+-F
+-K
+-L
+-O
+-Q
+-T
+-U
+-u
+-X
+-x
+-Z
+-z
+.netrc
+/etc/hosts
+<curl/curl.h>
+ALPN
+apt
+Arch Linux
+BearSSL
+BoringSSL
+brotli
+bugreports
+c-ares
+C89
+CA
+Chrome
+clone
+code of conduct
+configure
+connection cache
+connection pool
+Connection reuse
+content-encoding
+contribute
+Contributing
+Cookie engine
+Cookies
+copyright
+curl-announce
+curl-library
+curl-users
+curl_easy_cleanup
+curl_easy_getinfo
+curl_easy_init
+curl_easy_perform
+curl_easy_reset
+curl_easy_setopt
+curl_global_cleanup
+curl_global_init
+CURL_IPRESOLVE_V6
+CURL_MAX_WRITE_SIZE
+curl_mime_addpart
+curl_mime_filedata
+curl_mime_init
+curl_mime_name
+curl_multi_add_handle
+curl_multi_cleanup
+curl_multi_fdset
+curl_multi_info_read
+curl_multi_init
+curl_multi_remove_handle
+curl_multi_remove_handle
+curl_multi_setopt
+curl_multi_socket_action
+curl_multi_timeout
+curl_multi_wait
+curl_off_t
+CURL_SOCKET_TIMEOUT
+CURL_SSL_BACKEND
+curl_url
+curl_url_cleanup
+curl_url_dup
+curl_url_get
+curl_url_set
+curl_version_info
+CURLE_ABORTED_BY_CALLBACK
+CURLINFO_CERTINFO
+CURLINFO_CONTENT_TYPE
+CURLINFO_EFFECTIVE_URL
+CURLINFO_FILETIME
+CURLINFO_TOTAL_TIME_T
+CURLMOPT_SOCKETFUNCTION
+CURLMOPT_TIMERFUNCTION
+CURLOPT_CLOSESOCKETFUNCTION
+CURLOPT_COOKIE
+CURLOPT_COOKIEFILE
+CURLOPT_COOKIEJAR
+CURLOPT_COOKIELIST
+CURLOPT_CURLU
+CURLOPT_CUSTOMREQUEST
+CURLOPT_DEBUGDATA
+CURLOPT_DEBUGFUNCTION
+CURLOPT_DNS_CACHE_TIMEOUT
+CURLOPT_DNS_INTERFACE
+CURLOPT_DNS_LOCAL_IP4
+CURLOPT_DNS_LOCAL_IP6
+CURLOPT_DNS_SERVERS
+CURLOPT_DNS_USE_GLOBAL_CACHE
+CURLOPT_ERRORBUFFER
+CURLOPT_FAILONERROR
+CURLOPT_HEADER
+CURLOPT_HEADERDATA
+CURLOPT_HEADERFUNCTION
+CURLOPT_HTTPGET
+CURLOPT_HTTPHEADER
+CURLOPT_HTTPPOST
+CURLOPT_IPRESOLVE
+CURLOPT_MAXFILESIZE_LARGE
+CURLOPT_MAXREDIRS
+CURLOPT_MIMEPOST
+CURLOPT_NOBODY
+CURLOPT_NOPROGRESS
+CURLOPT_OPENSOCKETDATA
+CURLOPT_OPENSOCKETFUNCTION
+CURLOPT_POST
+CURLOPT_POSTFIELDS
+CURLOPT_POSTFIELDSIZE
+CURLOPT_POSTREDIR
+CURLOPT_PROGRESSFUNCTION
+CURLOPT_PROXY
+CURLOPT_PROXYPORT
+CURLOPT_PROXYTYPE
+CURLOPT_READDATA
+CURLOPT_READFUNCTION
+CURLOPT_RESOLVE
+CURLOPT_SEEKDATA
+CURLOPT_SEEKFUNCTION
+CURLOPT_SOCKOPTDATA
+CURLOPT_SOCKOPTFUNCTION
+CURLOPT_SSH_KNOWNHOSTS
+CURLOPT_SSL_VERIFYHOST
+CURLOPT_SSL_VERIFYPEER
+CURLOPT_SSLVERSION
+CURLOPT_STDERR
+CURLOPT_TCP_KEEPALIVE
+CURLOPT_TIMEOUT
+CURLOPT_TLSAUTH_USERNAME
+CURLOPT_UPLOAD
+CURLOPT_URL
+CURLOPT_USERAGENT
+CURLOPT_VERBOSE
+CURLOPT_WRITEDATA
+CURLOPT_WRITEFUNCTION
+CURLOPT_XFERINFODATA
+CURLOPT_XFERINFOFUNCTION
+CURLUPART_FRAGMENT
+CURLUPART_HOST
+CURLUPART_PASSWORD
+CURLUPART_PATH
+CURLUPART_PORT
+CURLUPART_QUERY
+CURLUPART_USER
+debian
+Debug callback
+development
+DICT
+Edge
+environment variables
+ETag
+etiquette
+event-driven
+Firefox
+Fragment
+FTPS
+future
+git
+Globbing
+GnuTLS
+GOPHER
+GOPHERS
+Header callback
+homebrew
+Host:
+HSTS
+HTTP ranges
+HTTP redirects
+HTTP Strict Transport Security
+HTTP/1.1
+HTTP/2
+HTTP/3
+HTTP/3 backend
+HttpGet
+IDN
+Indentation
+IPv4
+IPv6
+IRC
+JavaScript
+json
+keep-alive
+KNOWN_BUGS
+libcurl version
+libidn2
+libpsl
+libressl
+librtmp
+libssh
+libssh2
+license
+MesaLink
+MIT
+MITM-proxies
+MQTT
+mTLS
+multi-threading
+name resolving
+nghttp2
+nix
+NPN
+NSS
+openldap
+OpenSSL
+PAC
+Percent-encoding
+pop3
+port number
+Progress callback
+pronunciation
+proxy
+ranges
+Read callback
+redhat
+redirects
+RELEASE-NOTES
+releases
+repository
+RFC 1436
+RFC 1738
+RFC 1939
+RFC 1945
+RFC 2229
+RFC 2246
+RFC 2326
+RFC 2595
+RFC 2818
+RFC 3207
+RFC 3501
+RFC 3986
+RFC 4217
+RFC 4511
+RFC 5321
+RFC 7230
+RFC 7540
+RFC 7838
+RFC 8314
+RFC 8446
+RFC 854
+RFC 959
+roadmap
+RTMP
+RTSP
+rustls
+rustls-ffi
+Safari
+Schannel
+Scheme
+SCP
+security
+SFTP
+SMTP
+SMTPS
+snapshots
+SNI
+SSH
+SSH backend
+SSL context callback
+SSLKEYLOGFILE
+STARTTLS
+TELNET
+testing
+TFTP
+TLS
+TLS backend
+TODO
+transfer-encoding
+Ubuntu
+URL Globbing
+Vulnerability
+Wireshark
+wolfssh
+wolfSSH
+wolfSSL
+Write callback
+yum
+zlib
+zstd
